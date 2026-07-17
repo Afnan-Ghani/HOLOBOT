@@ -1,0 +1,17 @@
+Holobot — AI Vision Interface
+
+This product includes software originally developed by NVIDIA Corporation
+as part of the "live-vlm-webui" project:
+https://github.com/NVIDIA-AI-IOT/live-vlm-webui
+
+Copyright 2025 NVIDIA CORPORATION & AFFILIATES
+Licensed under the Apache License, Version 2.0.
+
+Modifications and additions in this repository, including but not limited to:
+  - pantilt_server.py (physical pan-tilt Arduino control service)
+  - RTSP/IP camera handling extensions
+  - Additional GPU monitoring platform support
+  - Holobot-branded web UI (index.html)
+
+...are Copyright 2026 Afnan Ghani, also licensed under the Apache License,
+Version 2.0, unless otherwise noted in individual file headers.
